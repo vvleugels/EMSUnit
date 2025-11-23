@@ -4,8 +4,8 @@
 // ---------------------------------------------------------
 // 1. WiFi credentials
 // ---------------------------------------------------------
-const char* ssid     = "FES-ELEC";
-const char* password = "ITBA1234";
+const char* ssid     = "YOURSSID";
+const char* password = "PASSWORD";
 
 // ---------------------------------------------------------
 // 2. Web server on port 80
